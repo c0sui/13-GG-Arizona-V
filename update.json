@@ -1,0 +1,9 @@
+{
+	"latest": 1,
+	"version": "1.0 Open Beta",
+	"updateurl":"https://raw.githubusercontent.com/c0sui/13-GG-Arizona-V/main/13_GG.exe",
+	"changes": [
+		"Открытое бета-тестирование"
+	],
+	"api_url": "https://api.13-GG.com/"
+}
